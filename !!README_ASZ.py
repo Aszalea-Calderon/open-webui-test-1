@@ -6,4 +6,4 @@
 # conda activate open-webui (to get into the environment)
 # start_windows.bat
 
-#start the backend server by running the following command in the terminal:
+#start the backend server by running the following command in the terminal: >
